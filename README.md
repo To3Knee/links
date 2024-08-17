@@ -17,15 +17,14 @@
 - **[ChatGPT](https://chatgpt.com)**
 
 ### 🎨 AI Image Creation
-- **[Behance](https://www.behance.net)**: Showcase & discover creative work.
-- **[Dribbble](https://www.dribbble.com)**: Where designers share what they are working on.
+TBD
 
 ### 💻 AI Drawing
-- **[Eraser](https://app.eraser.io)**:
+- **[Eraser](https://app.eraser.io)**
 
 ### 📚 Un-Dumb Yourself
-- **[DevOps Directive](https://www.youtube.com/@DevOpsDirective)**:
-- **[TypeCraft](https://www.youtube.com/@typecraft_dev)**: 
+- **[DevOps Directive](https://www.youtube.com/@DevOpsDirective)**
+- **[TypeCraft](https://www.youtube.com/@typecraft_dev)**
 
 ### 🌍 Miscellaneous
 TBD
