@@ -14,25 +14,21 @@
 ## 🕸️ Categories
 
 ### 🔧 Tools & Utilities
-- **[Google Search](https://www.google.com)**: The go-to search engine for finding anything on the web.
-- **[Canva](https://www.canva.com)**: Design anything from logos to presentations with ease.
-- **[Down For Everyone Or Just Me](https://www.downforeveryoneorjustme.com/)**: Check if a website is down or it's just you.
+- **[ChatGPT](https://chatgpt.com)**
 
 ### 🎨 AI Image Creation
 - **[Behance](https://www.behance.net)**: Showcase & discover creative work.
 - **[Dribbble](https://www.dribbble.com)**: Where designers share what they are working on.
 
 ### 💻 AI Drawing
-- **[Stack Overflow](https://stackoverflow.com)**: Get answers to your coding questions.
-- **[GitHub](https://github.com)**: Host and review code, manage projects, and build software.
+- **[Eraser](https://app.eraser.io)**:
 
 ### 📚 Un-Dumb Yourself
-- **[Khan Academy](https://www.khanacademy.org)**: Free online courses, lessons, and practice.
-- **[Coursera](https://www.coursera.org)**: Online courses from top universities and companies.
+- **[DevOps Directive](https://www.youtube.com/@DevOpsDirective)**:
+- **[TypeCraft](https://www.youtube.com/@typecraft_dev)**: 
 
 ### 🌍 Miscellaneous
-- **[Wikipedia](https://www.wikipedia.org)**: The free encyclopedia that anyone can edit.
-- **[Wayback Machine](https://archive.org/web/)**: Explore the history of any website.
+TBD
 
 ## 🌟 Contributing
 
@@ -46,6 +42,6 @@ For any questions or suggestions, feel free to reach out:
 
 <div align="center">
 
-Made with ❤️ by [Your Name](https://github.com/to3knee)
+Made with ❤️ by [TO3KNEE](https://github.com/to3knee)
 
 </div>
