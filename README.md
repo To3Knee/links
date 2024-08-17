@@ -33,12 +33,6 @@ TBD
 
 Have an awesome link that you think should be on this list? Feel free to submit a pull request or open an issue with your suggestion!
 
-## 📬 Contact
-
-For any questions or suggestions, feel free to reach out:
-
-- GitHub Issues: [https://github.com/yourusername/awesome-weblinks/issues](https://github.com/yourusername/awesome-weblinks/issues)
-
 <div align="center">
 
 Made with ❤️ by [TO3KNEE](https://github.com/to3knee)
